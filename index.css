@@ -19,15 +19,17 @@
 
 .green {
 	display: flex;
-	background: blue;
+	background: #AA3939;
 }
 
 .main-nav {
 	display: flex;
 	list-style: none;
 	font-size: 0.9em;
+	overflow: hidden;
 		
 }
+
 .sticky {
 	position: fixed;
 	top: 0;
@@ -56,7 +58,7 @@ li {
 
 }
 .blue {
-	background-color: blue;
+	background-color: #AA3939;
 }
 .box > img {
 	width: 100%
